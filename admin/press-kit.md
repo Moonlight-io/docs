@@ -41,3 +41,5 @@ Aggregation of formal definitions and resources for moonlight's media needs.
 ### Icon
 
 ![Icon](../assets/press-kit/favicon-256.png)
+
+![Icon2](../assets/press-kit/ML_Icon_Trans-L2.png)
