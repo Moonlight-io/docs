@@ -20,6 +20,8 @@
 
 #### White Paper
 * [en-us](https://assets.moonlight.io/docs/wp/moonlight_en-us.pdf)
+* [zh-cn](https://assets.moonlight.io/docs/wp/moonlight_zh-cn.pdf)
+* [jp-jp](https://assets.moonlight.io/docs/wp/moonlight_jp-jp.pdf)
 
 #### Addendum 1: Token Allocations
 * [en-us](https://assets.moonlight.io/docs/ad/moonlight_ad1_en-us.pdf)
